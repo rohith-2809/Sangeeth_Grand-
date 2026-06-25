@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "Google",
+    "rating": 3.9,
+    "reviewCount": 3606,
+    "summary": "An absolutely stunning venue! The team at Sangeeth Grand managed every detail of our wedding flawlessly. The food was incredible and the décor exceeded our wildest expectations.",
+    "linkOut": "https://www.google.com/search?q=hotel+sangeeth+grand+hastinapuram+reviews"
+  },
+  {
+    "platform": "Venuebookingz",
+    "rating": 4.0,
+    "reviewCount": 124,
+    "summary": "The perfect balance of luxury and affordability. We hosted our daughter's engagement here and the separate dining lounge made the entire evening flow seamlessly. Highly recommended.",
+    "linkOut": "https://www.venuebookingz.com/banquet-hall/hotel-sangeeth-grand-hastinapuram-hyderabad"
+  },
+  {
+    "platform": "Zomato",
+    "rating": 4.0,
+    "reviewCount": 842,
+    "summary": "Exceptional culinary experience. The in-house catering team provided a bespoke multi-course feast that our guests are still raving about.",
+    "linkOut": "https://www.zomato.com/hyderabad/hotel-sangeeth-grand-l-b-nagar"
+  }
+]

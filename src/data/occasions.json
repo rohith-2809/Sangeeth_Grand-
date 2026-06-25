@@ -1,0 +1,42 @@
+[
+  {
+    "id": "wedding-reception",
+    "title": "Weddings & Receptions",
+    "tagline": "A masterpiece of a celebration",
+    "description": "From intimate ceremonies to grand Telugu weddings, our 170-seat premium hall and expansive standing capacity of up to 450 guests provide the ultimate canvas for the reception of your dreams. Our elite in-house décor team meticulously curates every detail — blending breathtaking mandap aesthetics, brilliant stage lighting, and bespoke floral designs into one seamless masterpiece.",
+    "capacity": "170 seated · up to 450 floating",
+    "icon": "wedding"
+  },
+  {
+    "id": "engagement-sangeet",
+    "title": "Engagements & Sangeet",
+    "tagline": "Where families unite in elegance",
+    "description": "Ring ceremonies, sangeet nights, and mehndi celebrations demand a venue that effortlessly balances high-energy festivity with refined elegance. Our centralised climate control ensures the dance floor remains perfectly comfortable, while our luxurious, private attached suites allow bridal parties to transition flawlessly between events.",
+    "capacity": "170 seated · up to 300 floating",
+    "icon": "engagement"
+  },
+  {
+    "id": "birthday-anniversary",
+    "title": "Birthdays & Anniversaries",
+    "tagline": "Celebrate life’s finest milestones",
+    "description": "Whether marking a child's magical first birthday or toasting to a golden anniversary, celebrate without compromise. Our exclusive, dedicated dining lounge ensures the main celebration space stays immaculate, while your guests are treated to a curated, multi-course culinary experience — entirely free from makeshift arrangements.",
+    "capacity": "Up to 170 seated",
+    "icon": "birthday"
+  },
+  {
+    "id": "naming-ceremony",
+    "title": "Naming Ceremonies & Showers",
+    "tagline": "A beautiful beginning",
+    "description": "Intimate, family-centred events require a space that feels incredibly warm and inviting, rather than cavernous. Our hall is architecturally scaled for perfect intimacy — ensuring every grandmother hears the chosen name, yet spacious enough to comfortably host your entire extended family in absolute luxury.",
+    "capacity": "Up to 170 seated",
+    "icon": "naming"
+  },
+  {
+    "id": "corporate",
+    "title": "Corporate Galas",
+    "tagline": "Beyond the boardroom",
+    "description": "Elevate your team celebrations, annual dinners, and corporate off-sites. We provide a premium, fully air-conditioned environment with dedicated on-site parking for up to 50 vehicles. Say goodbye to harsh conference-room lighting and logistical headaches; our world-class in-house catering and dedicated event managers streamline everything into one seamless, professional experience.",
+    "capacity": "170 seated · up to 300 floating",
+    "icon": "corporate"
+  }
+]
