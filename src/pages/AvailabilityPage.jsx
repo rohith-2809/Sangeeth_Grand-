@@ -268,7 +268,7 @@ export default function AvailabilityPage() {
                 <label className="block text-sm font-medium text-[var(--color-ink)] mb-2">
                   Preferred Slot <span className="text-[var(--color-maroon)]">*</span>
                 </label>
-                <div className="flex gap-3">
+                <div className="flex flex-col sm:flex-row gap-3">
                   {[
                     { value: 'morning', label: 'Morning', time: '9 AM – 3:30 PM' },
                     { value: 'evening', label: 'Evening', time: '5 PM – 12 AM' },

@@ -75,10 +75,10 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 1 }}
         >
-          <Link to="/availability" className="btn-primary text-sm px-8 py-3.5">
+          <Link to="/availability" className="btn-primary text-sm px-8 py-3.5 w-full sm:w-auto">
             Check Event Availability
           </Link>
-          <Link to="/gallery" className="btn-outline text-sm px-8 py-3.5 border-white/40 text-white hover:bg-white/10 hover:border-white/60">
+          <Link to="/gallery" className="btn-outline text-sm px-8 py-3.5 border-white/40 text-white hover:bg-white/10 hover:border-white/60 w-full sm:w-auto">
             Explore Our Spaces
           </Link>
         </motion.div>
