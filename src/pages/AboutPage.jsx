@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet-async'; 
 import { Link } from 'react-router-dom'; 
-import { motion } from 'framer-motion';
+import { motion } from 'framer-motion'; 
 import useScrollReveal from '../hooks/useScrollReveal';
 import SectionDivider from '../components/common/SectionDivider';
 
